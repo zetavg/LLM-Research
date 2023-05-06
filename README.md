@@ -5,7 +5,7 @@ colorFrom: white
 colorTo: black
 sdk: gradio
 sdk_version: 3.28.2
-app_file: tools/packages/wikipedia_utils/web_ui.py
+app_file: app.py
 pinned: false
 ---
 
