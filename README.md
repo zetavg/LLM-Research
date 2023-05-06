@@ -5,9 +5,11 @@ colorFrom: white
 colorTo: black
 sdk: gradio
 sdk_version: 3.28.2
-app_file: app.py
+app_file: tools/packages/wikipedia_utils/web_ui.py
 pinned: false
 ---
+
+To push, `git push -f hf-wikipedia-get-page-space hf-wikipedia-get-page-space:main`
 
 ---
 
