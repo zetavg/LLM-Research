@@ -1,0 +1,4 @@
+requests
+markdownify==0.11.6
+pangu
+gradio==3.27.0
